@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-darkblue)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # ✈️ Airport Operations Analytics
 An end-to-end data analytics project analyzing airport operations using Python, Power BI, and Tableau to uncover operational insights and support data-driven decision making.
 
