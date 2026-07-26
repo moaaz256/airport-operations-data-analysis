@@ -1,9 +1,6 @@
 # ✈️ Airport Operations Analytics
 An end-to-end data analytics project analyzing airport operations using Python, Power BI, and Tableau to uncover operational insights and support data-driven decision making.
 
-<p align="center">
-<img src="images/dashboard1.png" width="900">
-</p>
 
 ## Project Overview
 
@@ -56,7 +53,6 @@ Main tables include:
 - Power Query
 - Tableau
 - Jupyter Notebook
-- Git
 
 ## Data Cleaning
 
@@ -90,8 +86,6 @@ Implemented models:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- K-Means Clustering
-- PCA Visualization
 
 Evaluation Metrics:
 
@@ -109,8 +103,8 @@ Power BI Dashboards
 
 - Executive Overview
 - Flight Performance
-- Passenger Analysis
-- Operational Analysis
+- Passenger & Baggage Analysis
+- Retail Analysis
 
 Tableau Dashboard
 
@@ -118,27 +112,27 @@ Tableau Dashboard
 
 ## Dashboard Preview
 
-- ### Executive Dashboard
+### Executive Dashboard
 
-<img src="images/dashboard1.png">
-
----
-
-### Passenger Dashboard
-
-<img src="images/dashboard2.png">
+<img src="D:\NTI\Final Project\Excutive.png">
 
 ---
 
-### Flight Dashboard
+### Passenger & Baggage Dashboard
 
-<img src="images/dashboard3.png">
+<img src="D:\NTI\Final Project\Passenger&Baggage.png">
 
 ---
 
-### Operational Dashboard
+### Flight Performance Dashboard
 
-<img src="images/dashboard4.png">
+<img src="D:\NTI\Final Project\Flight_Operations.png">
+
+---
+
+### Retail Dashboard
+
+<img src="D:\NTI\Final Project\Retail.png">
 
 ---
 
