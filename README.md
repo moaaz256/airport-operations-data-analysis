@@ -138,7 +138,7 @@ Tableau Dashboard
 
 ### Tableau Dashboard
 
-<img src="images/tableau.png">
+![Retail Dashboard](images/TableauDashboard.jpeg)
 
 ## Team Members
 - [Moaaz Hamada Bakry](https://github.com/moaaz256) — Data Cleaning & Python
