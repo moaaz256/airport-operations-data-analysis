@@ -114,25 +114,25 @@ Tableau Dashboard
 
 ### Executive Dashboard
 
-<img src="D:\NTI\Final Project\Excutive.png">
+![Executive Dashboard](images/ExcutiveDashboard.jpeg)
 
 ---
 
 ### Passenger & Baggage Dashboard
 
-<img src="D:\NTI\Final Project\Passenger&Baggage.png">
+![Passenger & Baggage Dashboard](images/Passenger&Baggage.jpeg)
 
 ---
 
 ### Flight Performance Dashboard
 
-<img src="D:\NTI\Final Project\Flight_Operations.png">
+![Flight Performance Dashboard](images/FlightOperations.jpeg)
 
 ---
 
 ### Retail Dashboard
 
-<img src="D:\NTI\Final Project\Retail.png">
+![Retail Dashboard](images/RetailDashboard.jpeg)
 
 ---
 
