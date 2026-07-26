@@ -142,8 +142,8 @@ Tableau Dashboard
 
 ## Team Members
 - [Moaaz Hamada Bakry](https://github.com/moaaz256) — Data Cleaning & Python
-- Abdelmoneim Ahmed Ali — Data Cleaning
+- Abdelmoniem Ahmed Ali — Data Cleaning
 - Alhassan Sherif Ebrahim — Tableau Dashboard
-- Adham Atia Abdelsattar — Modeling & Power bi Dashboard
+- [Adham Atia Abdelsattar](https://github.com/Adham2tia) — Modeling & Power bi Dashboard
 - Jana Ahmed Rashad — Power bi Dashboard
 - Jana Ahmed Mohammed — Power bi Dashboard
