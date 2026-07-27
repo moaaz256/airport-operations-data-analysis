@@ -157,5 +157,5 @@ Tableau Dashboard
 - [Abdelmoniem Ahmed Ali](https://github.com/AbdelmoneimAhmedAbdalla) — Data Cleaning
 - Alhassan Sherif Ebrahim — Tableau Dashboard
 - [Adham Atia Abdelsattar](https://github.com/Adham2tia) — Modeling & Power bi Dashboard
-- Jana Ahmed Rashad — Power bi Dashboard
+- [Jana Ahmed Rashad](https://github.com/Jana-Ahmed200) — Power bi Dashboard
 - Jana Ahmed Mohammed — Power bi Dashboard
